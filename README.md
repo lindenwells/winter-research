@@ -1,7 +1,6 @@
 # Predicting (and Plotting) Minimum Soil Temps
 
 ## Overview
-Deployed at http://apsimpoama.ddns.net/lwells/
 
 So there's this trendy farming technique of winter-sowing sorghum.
 
